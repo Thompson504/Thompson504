@@ -1,3 +1,5 @@
+# Hi there, I'm Kevin Thomas 👋
+
 # 💫 About Me:
 🟢 I’m currently working learning coding.<br>🟢 I’m currently learning C.<br>
 
@@ -11,5 +13,5 @@
 ![](https://streak-stats.demolab.com/?user=Thompson504&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thompson504&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
